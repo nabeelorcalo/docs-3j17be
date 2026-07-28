@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-gqf96b.pulaucuansite.cfd/sitemap.xml
